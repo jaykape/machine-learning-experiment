@@ -7,11 +7,13 @@ This repository contains my experiments in learning machine learning.
 
 <br clear="left"/>
 
+above is an image from using my 
 ## List
 
-1. **hands-on-ml**  
+### hands-on-ml  
    - Follow the book "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow".  
    - Includes toy datasets and practical exercises to practice ML concepts.
-2. **aaa**
-3. **bbb**
-4. **ccc**
+
+### Computer Vision
+
+### any other fun project
