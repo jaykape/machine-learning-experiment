@@ -2,8 +2,8 @@
 
 This repository contains experiments and projects for learning machine learning.
 
-<img align="left" width="100" height="100" src="data/readme/mono.gif">
-
+<img align="left" height="300" src="data/readme/mono.gif">
+<br clear="left"/>
 
 ## Project Structure
 
