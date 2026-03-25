@@ -1,10 +1,10 @@
 # Machine Learning Experiment
 
-This repository contains experiments and projects for learning machine learning.
 
 <img align="left" height="300" src="data/readme/mono.gif">
 
-test text
+This repository contains experiments and projects for learning machine learning.
+
 
 <br clear="left"/>
 
