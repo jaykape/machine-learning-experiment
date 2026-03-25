@@ -7,7 +7,7 @@ This repository contains my experiments in learning machine learning.
 
 <br clear="left"/>
 
-above is an image from using my 
+Above: depth map generated using OpenVINO Monodepth from an image taken by me.
 ## List
 
 ### hands-on-ml  
