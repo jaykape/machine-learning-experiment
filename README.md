@@ -2,6 +2,9 @@
 
 This repository contains experiments and projects for learning machine learning.
 
+<img align="left" width="100" height="100" src="data/readme/mono.gif">
+
+
 ## Project Structure
 
 1. **hands-on-ml**  
