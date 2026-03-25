@@ -1,7 +1,7 @@
 # Machine Learning Experiment
 
 
-<img align="left" height="300" src="data/readme/mono.gif">
+<img align="left" height="300" src="data/readme/mono.gif" style="margin-right: 20px;">
 
 This repository contains experiments and projects for learning machine learning.
 
