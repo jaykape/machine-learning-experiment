@@ -18,8 +18,8 @@ Above is a depth map generated using OpenVINO Monodepth from an image taken by m
 
 ### NLP
 
-### Computer Vision
+- RAG : A simple POC for Retreival Augmented Generation.
 
-### RAG
+### Computer Vision
 
 ### MLOps pipeline
