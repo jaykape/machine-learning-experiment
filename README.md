@@ -11,10 +11,10 @@ This repository contains my experiments in learning machine learning.
 
 ## List
 
-### Hands on ML
+### Core
 
-- Follow the book "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow".
-- Includes toy datasets and practical exercises to practice ML concepts.
+- Hands on ML : Along with reading the book "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow".
+- Transformer : Try transformer from scratch in Pytorch.
 
 ### NLP
 
@@ -23,7 +23,3 @@ This repository contains my experiments in learning machine learning.
 ### RAG
 
 ### MLOps pipeline
-
-### Core
-
-- Transformer from scratch in Pytorch.
