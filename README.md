@@ -22,4 +22,8 @@ Above is a depth map generated using OpenVINO Monodepth from an image taken by m
 
 ### Computer Vision
 
+- depth-estimation : depth demo using image transform.
+
 ### MLOps pipeline
+
+- model-serving : simple Flask API for model inference.
