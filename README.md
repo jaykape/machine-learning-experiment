@@ -13,12 +13,12 @@ Above is a depth map generated using OpenVINO Monodepth from an image taken by m
 
 ### Core
 
-- Hands on ML : Along with reading the book "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow".
+- Hands on ML : Play along while reading classic materials.
 - Transformer : Try transformer from scratch in Pytorch.
 
 ### NLP
 
-- RAG : A simple POC for Retreival Augmented Generation.
+- RAG : A simple POC for Retreival Augmented Generation System.
 
 ### Computer Vision
 
